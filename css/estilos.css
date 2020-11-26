@@ -1,0 +1,57 @@
+body {
+    font-family: 'Caveat', cursive;
+}
+
+
+.navbar{
+    min-height: 120px;
+    max-height: 130px;
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+}
+
+.logo-brand{
+    min-width: 50px;
+    max-width: 60px;
+}
+
+.navbar-collapse{
+    left: 0;
+}
+
+.carrito-brand{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.precio-total{
+    font-size: 22px;
+}
+
+.container-text{
+    max-width: 600px;
+    margin: 0 auto 100px auto;
+    text-align: center;
+    font-size: x-large;
+}
+
+
+.dropdown-menu {
+    width: 500px !important;
+    
+}
+
+.btn-secondary{
+    width: 220px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
